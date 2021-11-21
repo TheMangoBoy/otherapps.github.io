@@ -1,5 +1,17 @@
-{"hello":
-  {"title":"hello",
-  "discription":"asa sa s as as as asa s",
-  "rating": "*8****"}
+{"quote":
+  {"title":"Quote-Always Happy",
+  "discription":"My To Do helps you organize and simplify your plans.",
+  "rating": "*8*sdc***"},
+ "hello":
+  {"title":"girl-Quote",
+  "discription":"My To Do helps you organize and simplify your plans.",
+  "rating": "*8*sdc***"},
+ "hello":
+  {"title":"boy quote",
+  "discription":"My To Do helps you organize and simplify your plans.",
+  "rating": "*8**sdc**"},
+ "hello":
+  {"title":"buddha",
+  "discription":"My To Do helps you organize and simplify your plans.",
+  "rating": "*8**cs**"},
   }
